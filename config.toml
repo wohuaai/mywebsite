@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://mywebsite-one-azure.vercel.app"
 theme = "hugo-ht"
 languageCode = "zh-cn"
 defaultContentLanguage = "cn"
@@ -55,12 +55,12 @@ footnotereturnlinkcontents = "↩"
 [params]
   MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.5"
-  favicon = "media/hugo-logo.png"
+  favicon = "media/favicon.png"
   GithubRepo = ""
   copyright = "&copy;"
   copyrightYearStart = "2026"
   blogDirName = "posts"
-  logo = { url = "hugo-logo.png", width = 50.0, height = 50.0, alt = "我花的博客" }
+  logo = { url = "logo.png", width = 50.0, height = 50.0, alt = "我花的博客" }
 
 [languages]
   [languages.cn]

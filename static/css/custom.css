@@ -1,0 +1,16 @@
+/* 导航栏 logo 做成圆形，避免方图生硬地压在页头上 */
+.nav-logo img {
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+
+/* giscus 评论区：贴在页脚里，但不要继承页脚的居中和大字号 */
+.giscus-wrap {
+  max-width: 720px;
+  margin: 0 auto 2.5rem;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.6;
+}

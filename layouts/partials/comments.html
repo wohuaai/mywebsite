@@ -1,0 +1,25 @@
+{{- /*
+  giscus 评论区：只在「文章页」显示。
+  - 首页、文章列表、关于页（section 页）都不显示，避免一个页面开一个 discussion
+  - 单篇文章想关掉，在 front matter 里写 nocomment: true
+*/ -}}
+{{ if and .IsPage (not .Params.nocomment) }}
+<div class="giscus-wrap">
+  <script src="https://giscus.app/client.js"
+          data-repo="wohuaai/mywebsite"
+          data-repo-id="R_kgDOV7Nslw"
+          data-category="Announcements"
+          data-category-id="DIC_kwDOV7Nsl84DL7qp"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="light"
+          data-lang="zh-CN"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+{{ end }}
