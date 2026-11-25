@@ -60,18 +60,18 @@ footnotereturnlinkcontents = "↩"
   copyright = "&copy;"
   copyrightYearStart = "2026"
   blogDirName = "posts"
-  logo = { url = "hugo-logo.png", width = 50.0, height = 50.0, alt = "我的网站" }
+  logo = { url = "hugo-logo.png", width = 50.0, height = 50.0, alt = "我花的博客" }
 
 [languages]
   [languages.cn]
     languageName = "中文"
     languageCode = "zh-cn"
     weight = 1
-    title = "我的网站"
+    title = "我花的博客"
     contentDir = "content/cn"
 
     [languages.cn.params]
-      description = "我的个人网站"
+      description = "我花的个人网站"
       licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
 
     [languages.cn.taxonomies]
