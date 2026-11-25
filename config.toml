@@ -60,14 +60,14 @@ footnotereturnlinkcontents = "↩"
   copyright = "&copy;"
   copyrightYearStart = "2026"
   blogDirName = "posts"
-  logo = { url = "logo.png", width = 50.0, height = 50.0, alt = "我花的博客" }
+  logo = { url = "logo.png", width = 50.0, height = 50.0, alt = "我花" }
 
 [languages]
   [languages.cn]
     languageName = "中文"
     languageCode = "zh-cn"
     weight = 1
-    title = "我花的博客"
+    title = "我花"
     contentDir = "content/cn"
 
     [languages.cn.params]
