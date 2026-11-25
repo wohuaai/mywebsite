@@ -3,10 +3,9 @@ title: "关于"
 toc: false
 ---
 
-我是 **我花**，现在在……
+我是 **我花**，网站内容还没想好....
 
-- 邮箱：you@example.com
-- GitHub：[yourname](https://github.com/yourname)
+- GitHub：[wohuaai](https://github.com/wohuaai)
 
 
 
