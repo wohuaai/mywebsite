@@ -1,20 +1,15 @@
 <div align="center">
 
-<img src="docs/preview.png" alt="我花的博客" width="100%" />
-
-<br />
-<br />
-
 # 我花
 
-一个用 Hugo 搭建的极简博客 · **[wohuaai.com](https://www.wohuaai.com)**
+写点读书笔记、技术折腾，和一些没头没尾的想法。
+
+**[wohuaai.com](https://www.wohuaai.com)**
 
 [![Hugo](https://img.shields.io/badge/Hugo-0.170-FF4088?logo=hugo&logoColor=white)](https://gohugo.io/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 [![License](https://img.shields.io/badge/License-MIT%20%2B%20CC%20BY--NC--SA-3DA639)](#许可)
 [![Last Commit](https://img.shields.io/github/last-commit/wohuaai/mywebsite?color=blue&label=last%20commit)](https://github.com/wohuaai/mywebsite/commits/main)
-
-写点读书笔记、技术折腾，和一些没头没尾的想法。
 
 </div>
 
