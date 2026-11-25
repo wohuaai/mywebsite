@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: CuteStat
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}
