@@ -1,4 +1,4 @@
-baseURL = "https://mywebsite-one-azure.vercel.app"
+baseURL = "https://www.wohuaai.com"
 theme = "hugo-ht"
 languageCode = "zh-cn"
 defaultContentLanguage = "cn"
